@@ -1,0 +1,21 @@
+{
+    "ball": [
+        "Yes.",
+        "No.",
+        "Maybe."
+        ],
+    "commands": [
+		"eval",
+		"exec",
+		"reload",
+		"ping",
+		"site",
+		"stats",
+		"cat",
+		"github",
+		"pingcat",
+		"8ball",
+		"googl",
+		"invite"
+    ]
+}
